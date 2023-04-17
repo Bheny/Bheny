@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Vue3.js to build responsive and smart frontends
 - 💞️ I’m looking to collaborate on all sorts of projects to broaden my scope of knowledge 
 - 📫 How to reach me : Email: Bernard.tay@htu.edu.gh; Phone: +233552274951 
+[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bheny&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 Bheny/Bheny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
