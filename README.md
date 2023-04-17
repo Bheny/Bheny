@@ -5,6 +5,8 @@
 - 📫 How to reach me : Email: Bernard.tay@htu.edu.gh; Phone: +233552274951 
 [![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bheny&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Your Name's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Bheny&theme=radical)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
 <!---
 Bheny/Bheny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
