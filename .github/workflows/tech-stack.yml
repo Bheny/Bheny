@@ -1,0 +1,17 @@
+name: Generate Tech Stack
+
+on:
+  schedule:
+    - cron: '0 * * * *' # Runs every hour
+
+jobs:
+  generate-tech-stack:
+    runs-on: ubuntu-latest
+    name: Generate Tech Stack
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+      - name: Generate Tech Stack
+        uses: anmol098/waka-readme-stats@master
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
