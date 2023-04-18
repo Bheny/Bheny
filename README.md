@@ -7,7 +7,7 @@
 - [![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bheny&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Your Name's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Bheny&theme=radical)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bheny&show_icons=true&theme=radical)
 
 ### Tech Stack
 <!-- TODO-START -->
