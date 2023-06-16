@@ -5,7 +5,7 @@
 - 📫 How to reach me : Email: Bernard.tay@htu.edu.gh; Phone: +233552274951
 - 
 - [![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bheny&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-- [![Your Name's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Bheny&theme=radical)](https://github.com/DenverCoder1/github-readme-streak-stats)
+- [![GitHub Streak](https://streak-stats.demolab.com?user=Bheny&theme=dark)](https://git.io/streak-stats)
 
 
 
