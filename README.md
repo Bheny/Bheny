@@ -11,7 +11,7 @@
 - 🏆 **Achievements:** Gold medalist in the 2021 World Skills Challenge Ghana Nationals for IT Business Solutions. This accolade highlights my ability to conceptualize and implement high-impact solutions.
 - 🌱 **Education:** Bachelor of Technology in Computer Science from Ho Technical University, coupled with an HND in the same field.
 - 📢 **Speaker:** Speaker at the GDSC Ho chapter Career Fest and active participant in industry conferences.
-- 🌍 **Community Involvement:** Curator of the Global Shapers Community Ho Chapter and active member of Ho City Konnect group.
+- 🌍 **Community Involvement:** Curator of the Global Shapers Community Ho Chapter, an active member of TREBNET and active member of Ho City Konnect group.
 
 **Projects & Contributions:**
 I enjoy working on projects that solve real-world problems and have a positive impact on communities. My portfolio includes various applications built with modern frameworks and libraries. I am particularly passionate about designing systems that enhance user experiences and drive innovation.
