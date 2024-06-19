@@ -30,14 +30,11 @@ I am always open to collaboration and new opportunities. Whether you're interest
 ### MY STATS
 
 - [![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bheny&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://streak-stats.demolab.com?user=Bheny&theme=dark)](https://git.io/streak-stats)
-- [![Bheny's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bennyk)](https://github.com/bheny/github-readme-stats)
+- [![Bheny's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@bennyk&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+- <a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bheny&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=radical" />
+</a>
 
-
-
-### Tech Stack
-Certainly! Here's a detailed "Tech Stack" section that highlights your skills and expertise, suitable for showcasing on your GitHub profile:
-
----
 
 ### Tech Stack
 
@@ -77,10 +74,3 @@ Certainly! Here's a detailed "Tech Stack" section that highlights your skills an
 - **Mentorship & Teaching:** Passionate about mentoring aspiring developers and sharing knowledge through workshops and community involvement.
 
 ---
-
-Feel free to adjust any parts to best match your specific experiences and expertise! This tech stack section showcases your wide-ranging skills and depth of knowledge, making it clear that you are a seasoned professional in the field.
-
-<!---
-Bheny/Bheny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
