@@ -13,7 +13,7 @@ Dedicated to building efficient, user-centered digital solutions and leveraging 
 - 🧠 Currently deepening my expertise in **DevOps + Cloud (AWS, Docker, CI/CD)**  
 - 🏗️ I lead and mentor developers, build MVPs fast, and translate ideas into functional software  
 - 🌍 Worked across **SaaS, Logistics, HRTech, Education, Healthcare** ecosystems  
-- ✉️ Reach me: **bernardtaybkt@gmail.com**  
+- ✉️ Reach me: **benardk.tay@gmail.com**  
 - 🧩 Always open to collaboration on impactful open-source or startup-ready projects  
 
 ---
