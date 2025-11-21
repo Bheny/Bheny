@@ -96,7 +96,11 @@ Mobile app for caregivers & nurses to manage availability
 ---
 
 ## 📈 GitHub Stats  
-![Bernard's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bheny&show_icons=true&theme=tokyonight)
+- [![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bheny&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://streak-stats.demolab.com?user=Bheny&theme=dark)](https://git.io/streak-stats)
+- [![Bheny's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@bennyk&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+- <a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bheny&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=radical" />
+</a>
 
 ---
 
@@ -108,14 +112,10 @@ Mobile app for caregivers & nurses to manage availability
 ---
 
 ## ✉️ Connect with Me  
-📧 **bernardtaybkt@gmail.com**  
+📧 **benardk.tay@gmail.com**  
 
 
-### MY STATS
 
-- [![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bheny&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://streak-stats.demolab.com?user=Bheny&theme=dark)](https://git.io/streak-stats)
-- [![Bheny's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@bennyk&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-- <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bheny&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=radical" />
-</a>
+
+
 ---
