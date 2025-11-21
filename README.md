@@ -2,7 +2,7 @@
 
 ### Bernard Kojo Tay
 
-#### Seasoned Fullstack Software Engineer | Passionate Educator | Tech Enthusiast
+#### Fullstack Software Engineer | Passionate Educator | Tech Enthusiast
 
 👋 Welcome to my GitHub profile! I'm Bernard Kojo Tay, a fullstack software engineer with over four years of experience in the IT industry. My expertise spans various aspects of software development, including systems design, leadership, and teamwork.
 
