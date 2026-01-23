@@ -5,15 +5,6 @@
 ### 🧩 Full-Stack Engineer • AI Integrator • DevOps-Curious • Problem Solver  
 Dedicated to building efficient, user-centered digital solutions and leveraging AI to accelerate software delivery.
 
-I design backend systems, APIs, and applied AI workflows,
-then ship web & mobile interfaces on top.
-
-Currently building:
-• PrepMaster.ai
-• Panda Logistics
-• GIGA Workforce Systems
-
-
 ---
 
 ## 🚀 About Me  
