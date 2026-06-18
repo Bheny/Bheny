@@ -1,121 +1,103 @@
----
+# Bernard Kojo Tay — Full Stack AI Engineer
 
-# 👋 Hi, I’m Bernard Tay (BKT)
+> I build the UI, the API, and the AI.
 
-### 🧩 Full-Stack Engineer • AI Integrator • DevOps-Curious • Problem Solver  
-Dedicated to building efficient, user-centered digital solutions and leveraging AI to accelerate software delivery.
-
----
-
-## 🚀 About Me  
-- 👨‍💻 Full-Stack Developer specializing in **React Native, Next.js, TypeScript, Python (FastAPI), and Node.js**  
-- 🤖 Passionate about integrating **AI into real products** — assistants, automation, decision systems  
-- 🧠 Currently deepening my expertise in **DevOps + Cloud (AWS, Docker, CI/CD)**  
-- 🏗️ I lead and mentor developers, build MVPs fast, and translate ideas into functional software  
-- 🌍 Worked across **SaaS, Logistics, HRTech, Education, Healthcare** ecosystems  
-- ✉️ Reach me: **benardk.tay@gmail.com**  
-- 🧩 Always open to collaboration on impactful open-source or startup-ready projects  
+Based in Accra, Ghana. Building production systems for startups and organisations across fintech, edtech, logistics, and community sectors. Currently building **Tuta** — an AI native tutoring marketplace — and an AI powered **fractional real estate investment platform** under active contract.
 
 ---
 
-## 🛠️ Tech & Tools
+## What I am working on right now
 
-### **Frontend**
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js)
-![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css)
+**Tuta** — A tutoring marketplace connecting parents with verified tutors. Tutor KYC and onboarding, request matching, and Paystack payment processing already shipped. AI matching engine using embeddings in progress.
 
-### **Backend**
-![NodeJS](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
+**Fractional Real Estate Investment Platform** — Active client contract. Investors browse properties and purchase fractional shares. Built with atomic transaction design and full audit logging so every financial event is traceable. PostgreSQL, Next.js, Node.js, Paystack.
 
-### **Databases**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
-
-### **DevOps**
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
-
-### **AI / ML**
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-000000)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FCC624?logo=huggingface&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-
-### **Tools**
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white)
+**Global Shapers Impact Platform** — Building an impact reporting system for the Global Shapers Community (World Economic Forum network) that uses AI to generate impact reports from structured operational data.
 
 ---
 
-## 📌 Current Focus  
-🔹 Strengthening my **DevOps + Cloud foundations** (Kubernetes, AWS, CI/CD automation)  
-🔹 Building **AI-powered micro SaaS tools**  
-🔹 Studying **architecture patterns** & systems design  
-🔹 Exploring **multi-tenant SaaS architectures** (Row-level security, schema isolation)
+## Stack
+
+**Languages**
+TypeScript · JavaScript · Python
+
+**Frontend**
+React · Next.js 14 (App Router, SSR, ISR, RSC) · TailwindCSS · React Native · shadcn/ui
+
+**Backend**
+Node.js · FastAPI · Django · REST APIs
+
+**Databases**
+PostgreSQL · MongoDB · Supabase · MySQL · NeonDB
+
+**AI and GenAI**
+LangChain · Claude API · RAG pipelines · Supabase pgvector · LLM agent workflows · Prompt engineering
+
+**Infrastructure**
+Docker · GitHub Actions · Vercel · DigitalOcean · VPS management
 
 ---
 
-## 📦 Featured Projects
+## Shipped projects
 
-### **🚚 Panda People (P2P Logistics Platform)**
-Peer-to-peer delivery system with real-time tracking & automated matching  
-**Tech:** Next.js • Redis • WebSockets • PostgreSQL • Docker  
+### MyMC — Church Membership Management Platform
+Church membership, attendance tracking, outreach recording, and cell group management for a faith organisation with 1,000+ members. Built with Next.js, TypeScript, and Supabase. Row Level Security enforced at database level for member data protection.
 
-### **📊 FleetTracker SaaS**
-Multi-tenant cloud platform for fleet & driver management  
-**Tech:** Next.js • Prisma • PostgreSQL • Docker  
+### MyMC Findr — Cell Group Locator
+Companion tool to MyMC. Members search by location and find their nearest cell group. Serving 500+ monthly users. Next.js, TypeScript, Supabase.
 
-### **🧠 AI Interview Coach**
-Speech-to-text + AI feedback system for automated interview practice  
-**Tech:** NLP • Whisper API • React • Python  
+### GIGA Marketplace
+Two sided labour force marketplace. Businesses post jobs, workers apply, platform manages matching, ratings, and job tracking. Role based access for admin, business, and worker roles. 200+ provider registrations at launch. Next.js, FastAPI, PostgreSQL.
 
-### **🏥 HealthMate**
-Mobile app for caregivers & nurses to manage availability  
-**Tech:** React Native • Secure Local Storage  
+### OpHunter — AI Opportunity Marketplace
+RAG pipeline over opportunity data using LangChain and Supabase pgvector. Semantic search returning personalised results for students and early career professionals. 60% improvement in search relevance over keyword baseline. Next.js, FastAPI, Claude API.
 
----
+### ClientOrbit — Freelance Management SaaS
+Project tracking, invoicing, and client portals. 50+ active users. 95% client satisfaction rate. Next.js, FastAPI, PostgreSQL.
 
-## 🌱 Leadership & Community  
-- **Global Shapers Accra Hub (2022–2025)**  
-  - Vice Curator → Curator → Impact Officer  
-  - Led initiatives driving youth empowerment & innovation  
-- **Founder, AXLR8 Campus Dev Club (2019–2023)**  
-  - Trained and mentored **50+ junior developers**  
-  - Ran coding meetups, hack nights, and collaboration events  
+### Panda — P2P Logistics Marketplace
+Peer to peer package delivery platform matching travelers with senders. React Native, Next.js, Node.js, PostgreSQL.
 
 ---
 
-## 📈 GitHub Stats  
-- [![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bheny&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://streak-stats.demolab.com?user=Bheny&theme=dark)](https://git.io/streak-stats)
-- [![Bheny's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@bennyk&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-- <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bheny&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=radical" />
-</a>
+## Currently learning
+
+Rust — working through the official Rust book and building small CLI tools to get comfortable with ownership and the type system.
+
+AWS — preparing for the AWS Cloud Practitioner certification as the first step toward the Solutions Architect Associate.
+
+System Design — working through Designing Data Intensive Applications and practising one system design problem per week.
 
 ---
 
-## 🔎 What I’m Looking For  
-💼 Engineering roles (Full-Stack, AI-powered apps, React Native, Python/Node.js)  
-🤝 Collaboration on SaaS, AI tools, community apps  
-🚀 Startup teams that move fast and ship faster  
+## Community and leadership
+
+**Global Shapers Community, Accra Hub — World Economic Forum (2022 to 2025)**
+Vice Curator, then Curator (Hub Lead), then Impact Officer. Led social impact projects, stakeholder engagement, and hub governance for one of the WEF's recognised youth leadership networks.
+
+**Flip The Switch — 0 to 1 Mentorship Program (2024 to present)**
+Designed and run a structured mentorship program guiding beginner developers to job ready. Accountability systems, community learning, and industry backed learning paths.
+
+**AXLR8 Tech and Innovation Club, Ho Technical University (2019 to 2023)**
+Founded and led a student tech club. Trained 50+ students in software development, product thinking, and real world project workflows. Ran weekly workshops, coding challenges, and collaborative project sessions.
+
+**Guest Instructor — Node.js and Backend Engineering (2024 to present)**
+Hands on training sessions for career changers entering tech.
 
 ---
 
-## ✉️ Connect with Me  
-📧 **benardk.tay@gmail.com**  
+## Writing and building in public
 
+I document my engineering work publicly on LinkedIn. Architecture decisions, technical challenges, lessons learned, and projects shipped. If you want to see how I think not just what I build that is the place to look.
 
-
-
+LinkedIn: linkedin.com/in/bernard-kojo-tay
 
 ---
+
+## Open to
+
+Remote full stack engineering roles · AI integration engineering · Contract and full time · Startups and scaleups · Companies building products that matter
+
+**Portfolio:** bernardtay.online
+**Email:** benardk.tay@gmail.com
+**LinkedIn:** linkedin.com/in/bernard-kojo-tay
