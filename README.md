@@ -108,6 +108,5 @@ Remote full stack engineering roles · AI integration engineering · Contract an
 
 [![Bernard's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bheny&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/bheny)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Bheny&theme=dark&hide_border=true)](https://github.com/bheny)
-
+[![Bernard's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bheny&theme=github-compact&hide_border=true)](https://github.com/bheny)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Bheny&layout=compact&theme=dark&hide_border=true&langs_count=6)](https://github.com/bheny)
