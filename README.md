@@ -1,40 +1,63 @@
-# Bernard Kojo Tay — Full Stack AI Engineer
+<div align="center">
 
-> I build the UI, the API, and the AI.
+# Bernard Kojo Tay
 
-Based in Accra, Ghana. Building production systems for startups and organisations across fintech, edtech, logistics, and community sectors. Currently building **Tuta** — an AI native tutoring marketplace — and an AI powered **fractional real estate investment platform** under active contract.
+### Full Stack AI Engineer
 
----
+**I build the UI, the API, and the AI.**
 
-## What I am working on right now
-
-**Tuta** — A tutoring marketplace connecting parents with verified tutors. Tutor KYC and onboarding, request matching, and Paystack payment processing already shipped. AI matching engine using embeddings in progress.
-
-**Fractional Real Estate Investment Platform** — Active client contract. Investors browse properties and purchase fractional shares. Built with atomic transaction design and full audit logging so every financial event is traceable. PostgreSQL, Next.js, Node.js, Paystack.
-
-**Global Shapers Impact Platform** — Building an impact reporting system for the Global Shapers Community (World Economic Forum network) that uses AI to generate impact reports from structured operational data.
+[![Portfolio](https://img.shields.io/badge/Portfolio-bernardtay.online-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://www.bernardtay.online)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bernard-kojo-tay)
+[![Email](https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:benardk.tay@gmail.com)
 
 ---
 
-## Stack
+🇬🇭 Based in Accra, Ghana &nbsp;|&nbsp; 🌍 Available for remote work &nbsp;|&nbsp; ⚡ Open to opportunities
 
-**Languages**
-TypeScript · JavaScript · Python
+---
 
-**Frontend**
-React · Next.js 14 (App Router, SSR, ISR, RSC) · TailwindCSS · React Native · shadcn/ui
+</div>
 
-**Backend**
-Node.js · FastAPI · Django · REST APIs
+> Building production systems for startups across fintech, edtech, logistics, and community sectors.
+> Currently shipping **Tuta** (AI native tutoring marketplace) and a **fractional real estate investment platform** under active contract.
+---
 
-**Databases**
-PostgreSQL · MongoDB · Supabase · MySQL · NeonDB
+## 🛠️ Stack
 
-**AI and GenAI**
-LangChain · Claude API · RAG pipelines · Supabase pgvector · LLM agent workflows · Prompt engineering
+<div align="center">
 
-**Infrastructure**
-Docker · GitHub Actions · Vercel · DigitalOcean · VPS management
+### Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+### AI and GenAI
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude_API-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Supabase Vector](https://img.shields.io/badge/Supabase_pgvector-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Infrastructure
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+
+</div>
 
 ---
 
