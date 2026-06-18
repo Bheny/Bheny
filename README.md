@@ -101,3 +101,13 @@ Remote full stack engineering roles · AI integration engineering · Contract an
 **Portfolio:** bernardtay.online
 **Email:** benardk.tay@gmail.com
 **LinkedIn:** linkedin.com/in/bernard-kojo-tay
+
+---
+
+## GitHub Activity
+
+[![Bernard's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bheny&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/bheny)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Bheny&theme=dark&hide_border=true)](https://github.com/bheny)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Bheny&layout=compact&theme=dark&hide_border=true&langs_count=6)](https://github.com/bheny)
