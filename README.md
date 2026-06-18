@@ -61,75 +61,170 @@
 
 ---
 
-## Shipped projects
+## 🚀 Shipped Projects
 
-### MyMC — Church Membership Management Platform
-Church membership, attendance tracking, outreach recording, and cell group management for a faith organisation with 1,000+ members. Built with Next.js, TypeScript, and Supabase. Row Level Security enforced at database level for member data protection.
+<table>
+<tr>
+<td width="50%">
 
-### MyMC Findr — Cell Group Locator
-Companion tool to MyMC. Members search by location and find their nearest cell group. Serving 500+ monthly users. Next.js, TypeScript, Supabase.
+### 🏠 Fractional Real Estate Platform
+> Active client contract
 
-### GIGA Marketplace
-Two sided labour force marketplace. Businesses post jobs, workers apply, platform manages matching, ratings, and job tracking. Role based access for admin, business, and worker roles. 200+ provider registrations at launch. Next.js, FastAPI, PostgreSQL.
+Investors browse properties and purchase fractional shares. Built with atomic transaction design and full audit logging so every financial event is traceable.
 
-### OpHunter — AI Opportunity Marketplace
-RAG pipeline over opportunity data using LangChain and Supabase pgvector. Semantic search returning personalised results for students and early career professionals. 60% improvement in search relevance over keyword baseline. Next.js, FastAPI, Claude API.
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Paystack](https://img.shields.io/badge/Paystack-00C3F7?style=flat-square)
 
-### ClientOrbit — Freelance Management SaaS
-Project tracking, invoicing, and client portals. 50+ active users. 95% client satisfaction rate. Next.js, FastAPI, PostgreSQL.
+</td>
+<td width="50%">
 
-### Panda — P2P Logistics Marketplace
-Peer to peer package delivery platform matching travelers with senders. React Native, Next.js, Node.js, PostgreSQL.
+### 🎓 Tuta — AI Tutoring Marketplace
+> Currently building
+
+Connects parents with verified tutors. KYC verification, request matching, and Paystack payment processing shipped. AI matching engine using embeddings in progress.
+
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
+![LangChain](https://img.shields.io/badge/LangChain-000?style=flat-square)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Paystack](https://img.shields.io/badge/Paystack-00C3F7?style=flat-square)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🤖 OpHunter — AI Opportunity Marketplace
+> 60% improvement in search relevance
+
+RAG pipeline over opportunity data using LangChain and Supabase pgvector. Semantic search returning personalised results for students and early career professionals.
+
+![LangChain](https://img.shields.io/badge/LangChain-000?style=flat-square)
+![Claude API](https://img.shields.io/badge/Claude_API-CC785C?style=flat-square)
+![Supabase Vector](https://img.shields.io/badge/pgvector-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+</td>
+<td width="50%">
+
+### 👷 GIGA — Labour Force Marketplace
+> 200+ provider registrations at launch
+
+Two sided marketplace connecting businesses with short term workers. Role based access for admin, business, and worker roles with matching logic and ratings.
+
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### ⛪ MyMC — Church Management Platform
+> Serving 1,000+ members
+
+Membership tracking, attendance recording, outreach management, and cell group assignments. Row Level Security enforced at database level for member data protection.
+
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+</td>
+<td width="50%">
+
+### 💼 ClientOrbit — Freelance Management SaaS
+> 50+ active users · 95% satisfaction
+
+Project tracking, invoicing, and client portals for freelancers and agencies. Complete financial tracking and client communication in one platform.
+
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+</td>
+</tr>
+</table>
+---
+
+## 📚 Currently Learning
+
+<div align="center">
+
+| 🦀 Rust | ☁️ AWS | 🏗️ System Design |
+|---|---|---|
+| Working through the official Rust book. Building small CLI tools to get comfortable with ownership and the type system. | Preparing for AWS Cloud Practitioner cert as the first step toward Solutions Architect Associate. | Working through Designing Data Intensive Applications. Practising one system design problem per week. |
+
+</div>
 
 ---
 
-## Currently learning
+## 🌍 Community and Leadership
 
-Rust — working through the official Rust book and building small CLI tools to get comfortable with ownership and the type system.
+<div align="center">
 
-AWS — preparing for the AWS Cloud Practitioner certification as the first step toward the Solutions Architect Associate.
+| Role | Organisation | Period |
+|---|---|---|
+| 🌐 Impact Officer and Curator (Hub Lead) | Global Shapers Community, Accra Hub — World Economic Forum | 2022 to 2025 |
+| 🎓 Founder and Lead Mentor | Flip The Switch — 0 to 1 Mentorship Program | 2024 to present |
+| 💻 Founder and Club Lead | AXLR8 Tech and Innovation Club, Ho Technical University | 2019 to 2023 |
+| 👨‍🏫 Guest Instructor | Node.js and Backend Engineering | 2024 to present |
 
-System Design — working through Designing Data Intensive Applications and practising one system design problem per week.
-
----
-
-## Community and leadership
-
-**Global Shapers Community, Accra Hub — World Economic Forum (2022 to 2025)**
-Vice Curator, then Curator (Hub Lead), then Impact Officer. Led social impact projects, stakeholder engagement, and hub governance for one of the WEF's recognised youth leadership networks.
-
-**Flip The Switch — 0 to 1 Mentorship Program (2024 to present)**
-Designed and run a structured mentorship program guiding beginner developers to job ready. Accountability systems, community learning, and industry backed learning paths.
-
-**AXLR8 Tech and Innovation Club, Ho Technical University (2019 to 2023)**
-Founded and led a student tech club. Trained 50+ students in software development, product thinking, and real world project workflows. Ran weekly workshops, coding challenges, and collaborative project sessions.
-
-**Guest Instructor — Node.js and Backend Engineering (2024 to present)**
-Hands on training sessions for career changers entering tech.
+</div>
 
 ---
 
-## Writing and building in public
+## 📣 Building in Public
 
-I document my engineering work publicly on LinkedIn. Architecture decisions, technical challenges, lessons learned, and projects shipped. If you want to see how I think not just what I build that is the place to look.
+<div align="center">
 
-LinkedIn: linkedin.com/in/bernard-kojo-tay
+I document every project publicly. Architecture decisions, technical challenges, lessons learned, and tools shipped.
 
----
+**Follow the journey:**
 
-## Open to
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bernard-kojo-tay)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://www.bernardtay.online)
 
-Remote full stack engineering roles · AI integration engineering · Contract and full time · Startups and scaleups · Companies building products that matter
-
-**Portfolio:** bernardtay.online
-**Email:** benardk.tay@gmail.com
-**LinkedIn:** linkedin.com/in/bernard-kojo-tay
+</div>
 
 ---
 
-## GitHub Activity
+## 📊 GitHub Activity
+
+<div align="center">
 
 [![Bernard's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bheny&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/bheny)
 
-[![Bernard's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bheny&theme=github-compact&hide_border=true)](https://github.com/bheny)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bheny&theme=github-compact&hide_border=true)](https://github.com/bheny)
+
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Bheny&layout=compact&theme=dark&hide_border=true&langs_count=6)](https://github.com/bheny)
+
+</div>
+
+---
+
+## 💼 Open To
+
+<div align="center">
+
+| 🌍 Remote Full Stack Roles | 🤖 AI Engineering | 📱 Mobile Development |
+|---|---|---|
+| Next.js, Node.js, TypeScript | LangChain, Claude API, RAG | React Native, Expo |
+
+**Available for contract and full time. Startups and scaleups. Products that matter.**
+
+[![Email](https://img.shields.io/badge/Let's%20Talk-benardk.tay%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:benardk.tay@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+*Built with purpose from Accra, Ghana 🇬🇭*
+
+</div>
