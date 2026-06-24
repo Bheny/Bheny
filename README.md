@@ -63,12 +63,8 @@
 
 ## 🚀 Shipped Projects
 
-<table>
-<tr>
-<td width="50%">
-
-### 🏠 Fractional Real Estate Platform
-> Active client contract
+<details>
+<summary><b>🏠 Fractional Real Estate Investment Platform</b> — Active client contract</summary>
 
 Investors browse properties and purchase fractional shares. Built with atomic transaction design and full audit logging so every financial event is traceable.
 
@@ -77,11 +73,10 @@ Investors browse properties and purchase fractional shares. Built with atomic tr
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Paystack](https://img.shields.io/badge/Paystack-00C3F7?style=flat-square)
 
-</td>
-<td width="50%">
+</details>
 
-### 🎓 Tuta — AI Tutoring Marketplace
-> Currently building
+<details>
+<summary><b>🎓 Tuta — AI Tutoring Marketplace</b> — Live with users</summary>
 
 Connects parents with verified tutors. KYC verification, request matching, and Paystack payment processing shipped. AI matching engine using embeddings in progress.
 
@@ -90,74 +85,62 @@ Connects parents with verified tutors. KYC verification, request matching, and P
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Paystack](https://img.shields.io/badge/Paystack-00C3F7?style=flat-square)
 
-</td>
-</tr>
+</details>
 
-<tr>
-<td width="50%">
+<details>
+<summary><b>⛪ MyMC — Church Management Platform</b> — Built, internal testing</summary>
 
-### 🤖 OpHunter — AI Opportunity Marketplace
-> 60% improvement in search relevance
-
-RAG pipeline over opportunity data using LangChain and Supabase pgvector. Semantic search returning personalised results for students and early career professionals.
-
-![LangChain](https://img.shields.io/badge/LangChain-000?style=flat-square)
-![Claude API](https://img.shields.io/badge/Claude_API-CC785C?style=flat-square)
-![Supabase Vector](https://img.shields.io/badge/pgvector-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-
-</td>
-<td width="50%">
-
-### 👷 GIGA — Labour Force Marketplace
-> 200+ provider registrations at launch
-
-Two sided marketplace connecting businesses with short term workers. Role based access for admin, business, and worker roles with matching logic and ratings.
-
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### ⛪ MyMC — Church Management Platform
-> Serving 1,000+ members
-
-Membership tracking, attendance recording, outreach management, and cell group assignments. Row Level Security enforced at database level for member data protection.
+Membership tracking, attendance recording, outreach management, and cell group assignments for a 1,000 plus member organisation. Row Level Security at database level.
 
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
-</td>
-<td width="50%">
+</details>
 
-### 💼 ClientOrbit — Freelance Management SaaS
-> 50+ active users · 95% satisfaction
+<details>
+<summary><b>👷 GIGA — Labour Force Marketplace</b> — Portfolio project</summary>
 
-Project tracking, invoicing, and client portals for freelancers and agencies. Complete financial tracking and client communication in one platform.
+Two sided marketplace with role based access for admin, business, and worker roles. Matching logic, job tracking, and ratings system.
 
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-</td>
-</tr>
-</table>
----
+</details>
 
+<details>
+<summary><b>🤖 OpHunter — AI Opportunity Platform</b> — In development</summary>
+
+RAG pipeline using LangChain and Supabase pgvector. Semantic search over opportunity data with Claude API for result generation. Active AI engineering learning project.
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000?style=flat-square)
+![Claude API](https://img.shields.io/badge/Claude_API-CC785C?style=flat-square)
+
+</details>
+
+<details>
+<summary><b>💼 ClientOrbit — Freelance Management SaaS</b> — 50+ users</summary>
+
+Project tracking, invoicing, and client portals. Complete financial tracking and client communication in one platform.
+
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+</details>
+
+---
 ## 📚 Currently Learning
 
 <div align="center">
 
-| 🦀 Rust | ☁️ AWS | 🏗️ System Design |
-|---|---|---|
-| Working through the official Rust book. Building small CLI tools to get comfortable with ownership and the type system. | Preparing for AWS Cloud Practitioner cert as the first step toward Solutions Architect Associate. | Working through Designing Data Intensive Applications. Practising one system design problem per week. |
+| What | Why |
+|---|---|
+| 🦀 **Rust** | Working through the official Rust book. Building small CLI tools to get comfortable with ownership and the type system. |
+| ☁️ **AWS** | Preparing for AWS Cloud Practitioner cert as the first step toward Solutions Architect Associate. |
+| 🏗️ **System Design** | Working through Designing Data Intensive Applications. Practising one system design problem per week. |
 
 </div>
 
@@ -167,11 +150,12 @@ Project tracking, invoicing, and client portals for freelancers and agencies. Co
 
 <div align="center">
 
+
 | Role | Organisation | Period |
 |---|---|---|
-| 🌐 Impact Officer and Curator (Hub Lead) | Global Shapers Community, Accra Hub — World Economic Forum | 2022 to 2025 |
-| 🎓 Founder and Lead Mentor | Flip The Switch — 0 to 1 Mentorship Program | 2024 to present |
-| 💻 Founder and Club Lead | AXLR8 Tech and Innovation Club, Ho Technical University | 2019 to 2023 |
+| 🌐 Impact Officer and Curator | Global Shapers Community, Accra Hub, World Economic Forum | 2022 to 2025 |
+| 🎓 Founder and Lead Mentor | Flip The Switch, 0 to 1 Mentorship Program | 2024 to present |
+| 💻 Founder and Club Lead | AXLR8 Tech Club, Ho Technical University | 2019 to 2023 |
 | 👨‍🏫 Guest Instructor | Node.js and Backend Engineering | 2024 to present |
 
 </div>
